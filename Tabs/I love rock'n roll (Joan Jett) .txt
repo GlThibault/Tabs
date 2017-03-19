@@ -1,0 +1,36 @@
+mi la si
+
+Part 1 
+
+mi mi 0 mi mi 0 3
+la la 0
+si si 0 3
+
+
+Part 2
+
+mi mi 0 mi mi 0 3
+la la 0
+si 7mi 7mi
+
+
+Part 3 
+
+mi mi 0
+riff
+
+
+Couplets
+
+mi mi 0 mi mi 0
+riff
+mi mi 0
+
+si si 0
+riff
+la la 0
+si si 0
+
+mi mi
+laaaaaaaaaaaaaaaaa
+si (x8)
